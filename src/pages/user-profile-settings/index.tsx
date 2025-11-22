@@ -87,7 +87,7 @@ const UserProfileSettings = () => {
   };
 
   const apiAccess: ApiAccess = {
-    apiKey: 'sk_live_51234567890abcdefghijklmnopqrstuvwxyz',
+    apiKey: '',
     requestsUsed: 2500,
     requestsLimit: 10000,
     lastUsed: '2 hours ago',
